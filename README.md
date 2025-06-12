@@ -29,17 +29,6 @@ Provides friendly, reassuring tone for patient understanding
 
 Supports real-time inference via Hugging Face
 
-**How to Run Locally**
-git clone https://github.com/your-username/clinical-note-simplifier.git
-cd clinical-note-simplifier
-
-# Create and activate environment
-pip install -r requirements.txt
-
-# Run the app
-python app.py
-Make sure your merged_t5_clinical folder with the fine-tuned model is in the root directory.
-
 **Tech Stack**
 Python, PyTorch
 
