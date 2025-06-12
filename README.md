@@ -1,7 +1,7 @@
 **Clinical Note Simplifier — AI for Patient-Friendly Discharge Summaries**
 Transforming complex clinical notes into clear, compassionate language, using fine-tuned Large Language Models.
 
-** Overview**
+**Overview**
 Clinical notes are critical for doctors, but often unreadable to patients. This project uses a fine-tuned T5-base model (with LoRA + PEFT) to simplify medical shorthand and jargon into easy-to-understand summaries.
 
 **Example:**
